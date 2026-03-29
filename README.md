@@ -25,27 +25,31 @@ My work primarily involves Python and system-based applications, with a growing 
 ### Helpmate (Hackathon Winner)
 
 A first prize winning hackathon project focused on solving real-world user problems through an efficient and practical solution.
-(Repository will be added soon)
+[View Repository](https://github.com/your-username/helpmate)
 
 ### Smart Rail
 
 A train seat booking system with a visual interface that allows users to select seats.
 Includes multiple roles such as Admin, Ticket Examiner (TT), and User.
 Features include complaint management, service notifications, and chatbot assistance.
+[View Repository](https://github.com/your-username/smart-rail-system)
 
-### College Assistant Chatbot (In Progress)
 
-An AI-based chatbot designed to assist students with college-related queries such as schedules, services, and general information.
+**College Assistant Chatbot**
+AI-based chatbot for assisting students with college-related queries.
+[View Repository](https://github.com/your-username/college-assistant-chatbot)
 
-### Nyan Ente Nee Ente
+**Cyber Security Project**
+Project focused on implementing core cybersecurity concepts.
+[View Repository](https://github.com/your-username/cyber-security-project)
 
-An animal matrimony application developed as part of a creative project initiative, focusing on unique problem ideation and implementation.
+**Git Journey**
+Hands-on practice repository for Git and GitHub workflows.
+[View Repository](https://github.com/your-username/git-journey)
 
-### Git Journey
-
-A repository documenting hands-on practice and understanding of Git and GitHub workflows.
-
----
+**Nyan Ente Nee Ente**
+Creative animal matrimony application built as an experimental project.
+[View Repository](https://github.com/your-username/nyan-ente-nee-ente)
 
 ## Current Focus
 
